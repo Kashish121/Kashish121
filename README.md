@@ -11,3 +11,5 @@
   <img alt="Kashish121's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Kashish121&show_icons=true&hide_border=true&theme=vue" />
 
 </details>
+  
+![Visitor Count](https://profile-counter.glitch.me/Kashish121/count.svg)
