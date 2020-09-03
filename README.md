@@ -8,6 +8,6 @@
 <details align="center">
   <summary>Github Stats :octocat:</summary>
 
-  <img alt="Kashish121's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Kashish121&show_icons=true&hide_border=true" />
+  <img alt="Kashish121's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Kashish121&show_icons=true&hide_border=true&theme=vue" />
 
 </details>
