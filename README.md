@@ -7,12 +7,23 @@
 
 <p align="center">
   <b>An Open Source enthusiast.</b><br>
-  <i>You will find me here time and again.</i><br><br>
+  <i>You will find me here time and again.</i><br>
+  :diamonds:<br>
 <b>A creative mind.</b><br>
-  <i>Yes, I have an exact preimage of what I want.</i><br><br>
+  <i>Yes, I have an exact preimage of what I want.</i><br>
+    :diamonds:<br>
   <b>Always an evolving learner.</b><br>
   <i>Currently, making peace with Node.js.</i><br><br>
 </p>
+
+<p align="center">
+:memo:  Here's my latest blog: <a href="https://medium.com/@kashish_121/go-green-featuring-github-f8750fbf0729"> GO GREEN feturing GITHUB </a><br>
+  <i>Consider giving a clap :smile:.</i><br>
+  :book: Incessantly in love with books. Current read: <a href="https://www.goodreads.com/book/show/375396.Beyond_Coincidence">Beyond Coincidence</a><br><br>
+ :heavy_check_mark: I am always open to working on new projects. 
+  
+  </p>
+
 
 <details align="center">
   <summary>Github Stats :octocat:</summary>
@@ -20,5 +31,11 @@
   <img alt="Kashish121's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Kashish121&show_icons=true&hide_border=true&theme=vue" />
 
 </details>
-
-![Visitor Count](https://profile-counter.glitch.me/Kashish121/count.svg)
+<p align="center">
+  Do check my repositories out! Let's discuss if anything interests you. :smile: <br>
+  Thank you for dropping by!
+  </p>
+  
+<p align="center">
+<img alt="Visitor Count" src="https://profile-counter.glitch.me/Kashish121/count.svg">
+</p>
