@@ -5,8 +5,14 @@
 </p>
 <hr>
 
-An Open Source enthusiast. You will find me here time and again.
-A creative mind. Yes, I have foresee exactly what I want.
+<p align="center">
+  <b>An Open Source enthusiast.</b><br>
+  <i>You will find me here time and again.</i><br><br>
+<b>A creative mind.</b><br>
+  <i>Yes, I have an exact preimage of what I want.</i><br><br>
+  <b>Always an evolving learner.</b><br>
+  <i>Currently, making peace with Node.js.</i><br><br>
+</p>
 
 <details align="center">
   <summary>Github Stats :octocat:</summary>
