@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-:memo:  Here's my latest blog: <a href="https://medium.com/@kashish_121/go-green-featuring-github-f8750fbf0729"> GO GREEN feturing GITHUB </a><br>
+:scroll:  Here's my latest blog: <a href="https://medium.com/@kashish_121/go-green-featuring-github-f8750fbf0729"> GO GREEN feturing GITHUB </a><br>
   <i>Consider giving a clap :smile:.</i><br>
   :book: Incessantly in love with books. Current read: <a href="https://www.goodreads.com/book/show/375396.Beyond_Coincidence">Beyond Coincidence</a><br><br>
  :heavy_check_mark: I am always open to working on new projects. 
