@@ -24,7 +24,7 @@
   <i>Consider giving a clap :smile:.</i><br>
   :book: Incessantly in love with books. Current read: <a href="https://www.goodreads.com/book/show/375396.Beyond_Coincidence">Beyond Coincidence</a><br>
  :construction: Cynosure repository these days: <a href="https://github.com/kashish121/PortScanner/">Port Scanner</a><br><br>
- :heavy_check_mark: I am always open to working on new projects. 
+ :heavy_check_mark: I am always open to work on new projects. 
   
   </p>
 
