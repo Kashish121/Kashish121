@@ -22,7 +22,7 @@
 <p align="center">
 :scroll:  Here's my latest blog: <a href="https://medium.com/@kashish_121/go-green-featuring-github-f8750fbf0729"> GO GREEN feturing GITHUB </a><br>
   <i>Consider giving a clap :smile:.</i><br>
-  :book: Incessantly in love with books. Current read: <a href="https://en.wikipedia.org/wiki/Emma_(novel)">Emma ~ A Jane Austen novel</a><br>
+  :book: Incessantly in love with books. Current read: <a href="https://en.wikipedia.org/wiki/Lolita">Lolita</a><br>
  :construction: Cynosure repository these days: <a href="https://github.com/kashish121/PortScanner/">Port Scanner</a><br><br>
  :heavy_check_mark: I am always open to work on new projects. 
   
